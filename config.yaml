@@ -55,11 +55,11 @@ params:
     tagline: true
     links: false
   side:
-    - feature: languages
+    - feature: talen
     - feature: skills
       widget: word-list
       style: compact # list, compact, title-list
-    - feature: education
+    - feature: opleiding
     - feature: interests
       widget: word-list
       style: list
@@ -67,15 +67,12 @@ params:
     - features:
         - feature: about
           title: Over Mij
-        - feature: experience
+        - feature: werkervaring
     - features:
         - feature: projects
           collection: projects
-        - feature: publications
-          style: IEEE # IEEE, APA, else
-        - feature: awards
         - feature: certificates
-          title: Certifications
+          title: Certificaten
         - feature: interests
           widget: word-list
           style: list
