@@ -1,27 +1,39 @@
-- company: Uber
+- company: Fivoor
   roles:
-    - role: Data Scientist
+    - role: Ambulant Behandelaar @ ACT Jeugd
       details: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
               Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta. 
               Nam suscipit nisi a bibendum lacinia. Donec aliquet, nibh dignissim placerat efficit"
-      date: "10.2020 -  Present"
+      date: "nov 2017 -  heden"
+    - role: Sociotherapeut @ Wier Kliniek Open
+      details: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
+              Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta. 
+              Nam suscipit nisi a bibendum lacinia. Donec aliquet, nibh dignissim placerat efficit"
+      date: "jan 2014 -  okt 2017"
+    - role: Sociotherapeut @ Barentsz 
+      details: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
+              Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta. 
+              Nam suscipit nisi a bibendum lacinia. Donec aliquet, nibh dignissim placerat efficit"
+      date: "jan 2013 -  mrt 2014"
 
-- company: Google
+- company: de Vrolijkheid
   roles: 
-    - role: Senior Software Developer
-      details: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
+    - role: Centrumcoördinator 
+      details: "AZC Utrecht en Leersum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
               Aenean nec volutpat arcu. Maecenas quis tempus risus. "
-      date: "06.2019 - 10.2020"
-    
-    - role: Junior Software Developer
-      date: "10.2018 - 06.2019"
-      details: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-              Aenean nec volutpat arcu. Maecenas quis tempus risus. "
+      date: "aug 2009 - febr 2011"
 
-- company: Uber
+- company: Kunstbende
+  roles: 
+    - role: Centrumcoördinator 
+      details: "AZC Utrecht en Leersum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
+              Aenean nec volutpat arcu. Maecenas quis tempus risus. "
+      date: "sept 2005 - okt 2012"
+
+- company: STN Projecten
   roles:
-    - role: Driver
+    - role: Eigenaar
       details: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
               Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta. 
               Nam suscipit nisi a bibendum lacinia. Donec aliquet, nibh dignissim placerat efficit"
-      date: "2017 - 2018"
+      date: "Sept 2008 - Sept 2013"
