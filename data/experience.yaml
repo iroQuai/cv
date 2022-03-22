@@ -1,7 +1,7 @@
 - company: Fivoor
   roles:
     - role: Ambulant Behandelaar @ ACT Jeugd
-      details: "Outreatchende bemoeizorg voor jongeren 13-23jr. in rol van GGZ Agoog, 3jr als teammanager en nu focus op Systeemtherapeutisch werk"
+      details: "Outreatchende bemoeizorg voor jongeren 13-23jr. in rol van GGZ Agoog, 3jr als teammanager en nu focus op Systeemtherapeutisch werk."
       date: "nov '17 -  heden"
     - role: Sociotherapeut @ Wier Kliniek Open
       details: "Open behandelsetting voor SGLVG(+) in Den Dolder"
@@ -23,9 +23,3 @@
       details: "AZC Utrecht en Leersum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
               Aenean nec volutpat arcu. Maecenas quis tempus risus. "
       date: "sept '05 - okt '12"
-
-- company: STN Projecten
-  roles:
-    - role: Eigenaar
-      details: "Workshops diabolo, organisatie van evenementen, begeleiding, etc. kan evt ook onder projecten net als Buurland"
-      date: "2008 - 2013"
