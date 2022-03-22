@@ -1,19 +1,15 @@
 - company: Fivoor
   roles:
     - role: Ambulant Behandelaar @ ACT Jeugd
-      details: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
+      details: "Outreatchende bemoeizorg voor jongeren 13-23jr. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
               Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta. 
               Nam suscipit nisi a bibendum lacinia. Donec aliquet, nibh dignissim placerat efficit"
       date: "nov 2017 -  heden"
     - role: Sociotherapeut @ Wier Kliniek Open
-      details: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-              Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta. 
-              Nam suscipit nisi a bibendum lacinia. Donec aliquet, nibh dignissim placerat efficit"
+      details: "Open behandelsetting voor SGLVG(+) in Den Dolder"
       date: "jan 2014 -  okt 2017"
     - role: Sociotherapeut @ Barentsz 
-      details: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-              Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta. 
-              Nam suscipit nisi a bibendum lacinia. Donec aliquet, nibh dignissim placerat efficit"
+      details: "Gespecialiseerd centrum voor orthopsychiatrie in Den Dolder. Barentsz behandelt jongeren van 15 tot 21 jaar met ernstige gedragsproblemen in combinatie met andere psychiatrische stoornissen."
       date: "jan 2013 -  mrt 2014"
 
 - company: de Vrolijkheid
