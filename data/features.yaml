@@ -18,18 +18,18 @@ about:
 
 
 skills:
-  - groupName: Databases & Visualization
+  - groupName: Herstelgerichte zorg
     list:
       - Grafana - Kibana - PowerBI
       - InfluxDB - TICK Stack
 
-  - groupName: Data Analysis & Analytics
+  - groupName: systemisch werken
     list:
       - Python - R - SQL
       - Excel - Minitab - SPSS
       - GAMS - PuLP - OR Tools
 
-  - groupName: Programming & Systems
+  - groupName: tech
     list:
       - C# - Git - Docker - NGINX
       - Linux - CentOS RHEL
