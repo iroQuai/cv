@@ -14,14 +14,14 @@
 
 - company: de Vrolijkheid
   roles: 
-    - role: Centrumcoördinator 
+    - role: Centrumcoördinator AZC Utrecht en Leersum
       details: "AZC Utrecht en Leersum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
               Aenean nec volutpat arcu. Maecenas quis tempus risus. "
       date: "aug 2009 - febr 2011"
 
 - company: Kunstbende
   roles: 
-    - role: Centrumcoördinator 
+    - role: div functies, van stagiair tot finale-producent en wedstrijdcoördinator.
       details: "AZC Utrecht en Leersum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
               Aenean nec volutpat arcu. Maecenas quis tempus risus. "
       date: "sept 2005 - okt 2012"
@@ -29,7 +29,5 @@
 - company: STN Projecten
   roles:
     - role: Eigenaar
-      details: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-              Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta. 
-              Nam suscipit nisi a bibendum lacinia. Donec aliquet, nibh dignissim placerat efficit"
+      details: "Workshops diabolo, organisatie van evenementen, begeleiding, etc. kan evt ook onder "projecten" net als Buurland"
       date: "Sept 2008 - Sept 2013"
