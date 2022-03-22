@@ -58,9 +58,11 @@ params:
     - feature: languages
       title: Talen
     - feature: skills
+      title: Vaardigheden
       widget: word-list
       style: compact # list, compact, title-list
     - feature: interests
+      title: Interesses
       widget: word-list
       style: list
   pages:
