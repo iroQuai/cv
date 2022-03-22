@@ -56,7 +56,7 @@ params:
     links: false
   side:
     - feature: languages
-      tiele: Talen
+      title: Talen
     - feature: skills
       widget: word-list
       style: compact # list, compact, title-list
