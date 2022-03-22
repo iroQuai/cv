@@ -3,7 +3,17 @@ projects:
   subtitle: "Begeleiding, organisatie, workshops"
   date: "2008 - 2013"
   details: |
-    Sinds september 2008 ben ik een eenmanszaak onder de naam "STN Projecten". Onder deze naam voer ik mijn freelance projecten uit. Deze projecten zijn gevarieerd, maar kunnen globaal gezien onderverdeeld worden in 1. het begeleiden van groepen (voornamelijk jongeren), 2. het bieden van workshops diabolo, 3.  het organiseren van evenementen en festivals
+    In de periode 2008 - 2013 had ik een eenmanszaak onder de naam "STN Projecten", waaronder ik diverse freelance projecten uitvoerde. Deze projecten waren gevarieerd, maar kunnen globaal gezien onderverdeeld worden in 
+links:
+  - title: Het begeleiden van groepen (voornamelijk jongeren)
+    url: http://www.stijnbiemans.nl
+    icon: fab fa-people-group
+  - title: het bieden van workshops diabolo, jongleren en vuurspuwen
+    url: http://www.diaboloworkshop.nl 
+    icon: fab fa-person-dots-from-line
+  - title: het organiseren van evenementen en festivals
+    url: http://www.buurlandutrecht.nl/zwemfest/
+    icon: fab fa-face-party
 
 - title: "Buurland Utrecht"
   subtitle: "Gemoedelijk wonen in Hartje Utrecht"
