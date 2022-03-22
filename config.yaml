@@ -55,6 +55,8 @@ params:
     tagline: true
     links: false
   side:
+    - feature: about
+      title: Over Mij   
     - feature: languages
       title: Talen
     - feature: skills
@@ -67,8 +69,6 @@ params:
       style: list
   pages:
     - features:
-        - feature: about
-          title: Over Mij
         - feature: werkervaring
     - features:
         - feature: projects
