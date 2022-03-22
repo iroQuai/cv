@@ -59,7 +59,6 @@ params:
     - feature: skills
       widget: word-list
       style: compact # list, compact, title-list
-    - feature: opleiding
     - feature: interests
       widget: word-list
       style: list
@@ -69,7 +68,9 @@ params:
           title: Over Mij
         - feature: werkervaring
     - features:
+        - feature: opleiding
         - feature: projects
+          title: projecten
           collection: projects
         - feature: certificates
           title: Certificaten
