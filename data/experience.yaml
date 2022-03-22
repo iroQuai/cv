@@ -1,33 +1,31 @@
 - company: Fivoor
   roles:
     - role: Ambulant Behandelaar @ ACT Jeugd
-      details: "Outreatchende bemoeizorg voor jongeren 13-23jr. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-              Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta. 
-              Nam suscipit nisi a bibendum lacinia. Donec aliquet, nibh dignissim placerat efficit"
-      date: "nov 2017 -  heden"
+      details: "Outreatchende bemoeizorg voor jongeren 13-23jr. in rol van GGZ Agoog, 3jr als teammanager en nu focus op Systeemtherapeutisch werk"
+      date: "nov '17 -  heden"
     - role: Sociotherapeut @ Wier Kliniek Open
       details: "Open behandelsetting voor SGLVG(+) in Den Dolder"
-      date: "jan 2014 -  okt 2017"
+      date: "jan '14 -  okt '17"
     - role: Sociotherapeut @ Barentsz 
-      details: "Gespecialiseerd centrum voor orthopsychiatrie in Den Dolder. Barentsz behandelt jongeren van 15 tot 21 jaar met ernstige gedragsproblemen in combinatie met andere psychiatrische stoornissen."
-      date: "jan 2013 -  mrt 2014"
+      details: "Gespecialiseerd centrum voor orthopsychiatrie in Den Dolder. Barentsz behandelde jongeren van 15 tot 21 jaar met ernstige gedragsproblemen in combinatie met andere psychiatrische stoornissen. Begin '14 gesloten."
+      date: "jan '13 -  mrt '14"
 
 - company: de Vrolijkheid
   roles: 
     - role: Centrumcoördinator AZC Utrecht en Leersum
       details: "AZC Utrecht en Leersum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
               Aenean nec volutpat arcu. Maecenas quis tempus risus. "
-      date: "aug 2009 - febr 2011"
+      date: "aug '09 - febr '11"
 
 - company: Kunstbende
   roles: 
     - role: div functies, van stagiair tot finale-producent en wedstrijdcoördinator.
       details: "AZC Utrecht en Leersum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
               Aenean nec volutpat arcu. Maecenas quis tempus risus. "
-      date: "sept 2005 - okt 2012"
+      date: "sept '05 - okt '12"
 
 - company: STN Projecten
   roles:
     - role: Eigenaar
       details: "Workshops diabolo, organisatie van evenementen, begeleiding, etc. kan evt ook onder projecten net als Buurland"
-      date: "Sept 2008 - Sept 2013"
+      date: "2008 - 2013"
