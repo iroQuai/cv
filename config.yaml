@@ -68,15 +68,14 @@ params:
           title: Over Mij
         - feature: werkervaring
     - features:
-        - feature: opleiding
         - feature: projects
-          title: projecten
+          title: Projecten
           collection: projects
+        - feature: opleiding
+          title: Opleidingen
         - feature: certificates
           title: Certificaten
-        - feature: interests
-          widget: word-list
-          style: list
+        
         
   footer:
     show: true
