@@ -1,4 +1,18 @@
 projects:
+- title: "Trainer 'Seks & Relaties'"
+  subtitle: "Voor clienten van de verschillende Wier klinieken"
+  # link: "https://www.buurlandutrecht.nl"
+  date: "sept '16 - okt '17"
+  details: |
+    Het geven van trainingen over seksualiteit en relaties aan clienten van de divers Wier klinieken (Open, Gesloten, Plus), 1 dag per week. Daarnaast heb ik me ook toegelegd op het herschrijven van de training naar een passender niveau voor de doelgroep (LVB) èn een veschuiving van de focus van puur seksuele voorlichting naar een bredere training waarin ook de relationele component besproken werdt. 
+
+- title: "Buurland Utrecht"
+  subtitle: "Gemoedelijk wonen in Hartje Utrecht"
+  link: "https://www.buurlandutrecht.nl"
+  date: "2010 - 2015"
+  details: |
+    Actieve rol in opzetten en onderhouden van buurtgemeenschap Buurland Utrecht, inclusief diverse sociaal-maatschappelijke projecten (anti-inbraakborrel, opruimdagen) en jaarlijkse buurtfestival
+
 - title: "STN Projecten"
   subtitle: "Begeleiding, organisatie, workshops"
   date: "2008 - 2013"
@@ -14,10 +28,3 @@ projects:
   - title: "het organiseren van evenementen en festivals"
     url: http://www.buurlandutrecht.nl/zwemfest/
     icon: fab fa-face-party
-
-- title: "Buurland Utrecht"
-  subtitle: "Gemoedelijk wonen in Hartje Utrecht"
-  link: "https://www.buurlandutrecht.nl"
-  date: "2010 - 2015"
-  details: |
-    Actieve rol in opzetten en onderhouden van buurtgemeenschap Buurland Utrecht, inclusief diverse sociaal-maatschappelijke projecten (anti-inbraakborrel, opruimdagen) en jaarlijkse buurtfestival
