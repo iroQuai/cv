@@ -54,30 +54,36 @@ params:
     contact: true
     tagline: true
     links: false
-  side:
-    - feature: languages
-      title: Talen
-    - feature: skills
-      title: Vaardigheden
-      widget: word-list
-      style: compact # list, compact, title-list
-    - feature: interests
-      title: Interesses
-      widget: word-list
-      style: list
+ 
   pages:
     - features:
         - feature: about
           title: Over Mij   
         - feature: werkervaring
-    - features:
-        - feature: projects
-          title: Projecten
-          collection: projects
-        - feature: opleiding
-          title: Opleidingen
-        - feature: certificates
-          title: Certificaten
+#    - features:
+#        - feature: projects
+#          title: Projecten
+#          collection: projects
+
+  side:
+    - feature: opleiding
+      title: Opleidingen
+
+    - feature: skills
+      title: Vaardigheden
+      widget: word-list
+      style: compact # list, compact, title-list
+
+#    - feature: certificates
+#      title: Beroepsregistraties
+
+#    - feature: interests
+#      title: Dit heb ik ook
+#      widget: word-list
+#      style: list
+#
+    - feature: languages
+      title: Tot slot...
         
         
   footer:

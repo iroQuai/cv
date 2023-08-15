@@ -1,8 +1,8 @@
 about:
   name: Stijn Biemans
   tagline: GGZ Agoog | Systeemtherapeutisch werker
-  phone: "06-628**80**"
-  email: info@stijnbiemans.nl
+  phone: "06-628708065"
+  email: stijn.biemans@gmail.com
   links:
     - title: /in/stijnbiemans
       url: https://nl.linkedin.com/in/stijnbiemans
@@ -10,46 +10,64 @@ about:
     - title: stijnbiemans
       url: https://github.com/iroQuai
       icon: fab fa-github
-  details: |
-    In de afgelopen jaren heb ik werkervaring opgedaan op diverse plekken. In al deze ervaringen spelen groepsdynamische, sociaal-maatschappelijke, organisatorische en creatieve elementen een rol. In deze C.V. omschrijf ik op beknopte wijze mijn meest relevante ervaringen. 
-
+  details: "Ik ben Stijn, 38 jaar, woonachtig in Amersfoort. Opgeleid als social worker, met specialisaties tot GGZ Agoog en Systeemtherapeutisch Werker. Zo'n twintig jaar ervaring in het werk met (kwetsbare) jongeren, en ruim tien jaar ervaring in de specialistische GGZ. Sinds 2017 werkzaam als ambulant behandelaar in een ACT Jeugd team. En op zoek naar een nieuwe uitdaging!"
 
 skills:
-  - groupName: Herstelgerichte zorg
-    list:
-      - yucel - persoonlijke diagnostiek
-      - Presentietheorie - SRH 
+  - groupName: Brede ervaring binnen GGZ 
+    list: 
+    - Jeugd (13 tot 24)
+    - LVB
+    - complexe problematiek
+    - zorgmijding
+    - weerstand
+    - maatwerk
+    - steunend en structurerend
+    - crisismanagement
 
-  - groupName: systemisch werken
+  - groupName: Herstel- en krachtgericht
     list:
-      - Python - R - SQL
-      - Excel - Minitab - SPSS
-      - GAMS - PuLP - OR Tools
-
-  - groupName: tech
+      - SRH
+      - eigen regie
+      - yucelmethode
+      - persoonlijke diagnostiek
+      - presentietheorie
+      
+  - groupName: Systemisch werken
     list:
-      - C# - Git - Docker - NGINX
-      - Linux - CentOS RHEL
-
+    - betrekken gezin, familie en vrienden
+    - signaleren en veranderen ongewenste patronen
+    - geweldloos verzet
+    - machteloosheid en rouw bij ouders
+    - psycho-educatie
+    
 interests:
-  - Data Science
-  - AI Applications
-  - Optimization Problems
+  - "✔ Registraties: SKJ, GGZ Agoog (NRVG volgt in januari '24)"
+  - "✔ Rijbewijs B, eigen vervoer"
+  - "✔ Talen: Nederlands, Engels"
+
+#### NIET IN GEBRUIK NU #####
+certificates:
+  - title: "SKJ"
+    subtitle: "100026933"
+    date: "t/m 26-03-2024"
+    link: https://register.skjeugd.nl # This link will be on title level.
+
+  - title: "GGZ Agoog"
+    subtitle: "461032436"
+    date: "t/m 26-01-2024"
+    link: https://www.pe-online.org/fe/publicRegister/189/461032436
+
+  - title: "NVRG"
+    subtitle: "aanvraag volgt"
+    date: "verwachte aanvraagdatum: januari '24"
+    link: https://www.nvrg.nl/lid-systeemtherapeutisch-werker
 
 languages:
-  - name: Nederlands
-    level: moedertaal
-
-  - name: English
-    level: goed
-
-certificates:
-  - title: "Supervised Learning: Regression"
-    subtitle: Coursera
-    date: "2020"
-    link: https://xkcd.com/605/ # This link will be on title level.
-
-  - title: "Supervised Learning: Classification"
-    subtitle: Coursera
-    date: "2020"
-    link: https://xkcd.com/388/
+  - name: Talen
+    level: Nederlands, Engels
+  - name: Registraties
+    level: SKJ, GGZ Agoog. (NVRG Volgt)
+  - name: Rijbewijs
+    level: B, incl eigen auto
+  - name: Vrije tijd
+    level: "Mijn gezin, basketbal, websites bouwen, sociaal-maatschappelijke activiteiten (oa BuurlandUtrecht.nl)" 

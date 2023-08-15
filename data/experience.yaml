@@ -1,24 +1,23 @@
 - company: Fivoor
   roles:
-    - role: Behandelaar B @ ACT Jeugd
-      details: "Outreatchende bemoeizorg voor jongeren 13-23jr. in rol van GGZ Agoog, 2jr als teammanager en nu focus op Systeemtherapeutisch werk."
+    - role: GGZ Agoog / STW @ ACT Jeugd
+      details: "Outreachende (bemoei)zorg voor jongeren tussen 13-23 jaar met complexe problematiek volgens met model 'Assertive Community Treatment'. In de rollen van GGZ Agoog en Systeemtherapeutisch Werker ben ik verantwoordelijk voor de behandeling van zowel jongeren als gezinnen."
       date: "nov '17 -  heden"
-    - role: Sociotherapeut @ Wier Kliniek Open
-      details: "Wier is één van de vier erkende SGLVG behandelcentra in Nederland voor observatie, diagnostiek en behandeling van mensen met een lichte verstandelijke beperking en complexe problematiek. Ik heb hier veel geleerd over observatie, diagnostiek, behandeling en bejegening van deze bijzondere en veelzijdige doelgroep."
+    - role: Sociotherapeut @ Wier Kliniek
+      details: Verantwoordelijk voor het therapeutisch klimaat. Onderlinge groepsdynamiek, individuele ondersteuning van clienten in alle ontwikkelingstaken, interventies bij conflict- en crisissituaties. Observeren, rapporteren en evalueren van individuele behandeltrajecten. Crisismanagement en deëscalatie. Bieden van psycho-educatie en groepstherapie.
       date: "jan '14 -  okt '17"
-    - role: Sociotherapeut @ Barentsz kliniek
-      details: "Gespecialiseerd centrum voor orthopsychiatrie in Den Dolder. Barentsz behandelde jongeren van 15 tot 21 jaar met ernstige gedragsproblemen in combinatie met andere psychiatrische stoornissen. Begin '14 gesloten."
+    - role: Sociotherapeut @ Barentsz
+      details: "Identiek aan Wier, maar dan met jongeren tussen 15 en 23 jaar met psychiatrische problematiek in combinatie mer ernstige gedragsproblemen."
       date: "jan '13 -  mrt '14"
 
 - company: Nationale stichting ter bevordering van Vrolijkheid
   roles: 
     - role: Centrumcoördinator AZC Utrecht en Leersum
-      details: "Als centrumcoördinator in diverse asielzoekerscentra organiseerde en begeleidde ik (samen met ruim 20 vrijwilligers) wekelijkse activiteiten voor meer dan 70 kinderen tussen 4 en 14 jaar. Daarnaast initieerde ik diverse projecten voor de meer dan 60 jongeren tussen 15 en 25 jaar uit AZC's Utrecht en Leersum."
+      details: " Ontwikkelen, uitvoeren, aansturen en evalueren van creatieve en sportieve projecten voor zo'n 140 kinderen en jongeren in AZC's Utrecht en Leersum. Aannemen, aansturen en begeleiden ruim 20 vrijwilligers. Beheer financiën."
       date: "aug '09 - febr '11"
 
 - company: Kunstbende
   roles: 
-    - role: div functies, van stagiair tot finale-producent en wedstrijdcoördinator.
-      details: "AZC Utrecht en Leersum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-              Aenean nec volutpat arcu. Maecenas quis tempus risus. "
+    - role: diverse functies binnen hele organisatie
+      details: "Gestart als stagiaire, geëindigd als wedstrijdcoördinator, waarbij ik verantwoordelijk was voor de planning, organisatie, uitvoering en evaluatie van een landelijke talentenwedstrijd voor jongeren (12-18) met twaalf voorrondes door het hele land, uitmondend in een grootschalige landelijke finale."
       date: "sept '05 - okt '12"
