@@ -1,10 +1,10 @@
-- name: "Systeemtherapeutisch Werk"
+- name: "Systeemtherapeutisch Werk (STW)"
   university: "de Jeugdzorg Academie, Utrecht"
   # more: "Technisch theoretische cursus" # Optional field, if you want to add a non-standard line.
   date: "2021 - 2022"
   
 - name: "GGZ Agoog"
-  university: "RINO Groep Utrecht"
+  university: "RINO Groep, Utrecht"
   date: "2016 - 2017"
   
 - name: "HBO Social Work (CMV)"
