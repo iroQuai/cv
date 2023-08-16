@@ -35,16 +35,12 @@ skills:
   - groupName: Systemisch werken
     list:
     - betrekken gezin, familie en vrienden
+    - samenwerken ketenpartners
     - signaleren en veranderen ongewenste patronen
     - geweldloos verzet
     - machteloosheid en rouw bij ouders
     - psycho-educatie
     
-interests:
-  - "✔ Registraties: SKJ, GGZ Agoog (NRVG volgt in januari '24)"
-  - "✔ Rijbewijs B, eigen vervoer"
-  - "✔ Talen: Nederlands, Engels"
-
 languages:
   - name: Talen
     level: Nederlands, Engels
@@ -56,6 +52,11 @@ languages:
     level: "Mijn gezin, basketbal, websites bouwen, sociaal-maatschappelijke activiteiten (oa BuurlandUtrecht.nl)" 
 
 #### NIET IN GEBRUIK NU, info staat onder "languages" #####
+interests:
+  - "✔ Registraties: SKJ, GGZ Agoog (NRVG volgt in januari '24)"
+  - "✔ Rijbewijs B, eigen vervoer"
+  - "✔ Talen: Nederlands, Engels"
+  
 certificates:
   - title: "SKJ"
     subtitle: "100026933"
