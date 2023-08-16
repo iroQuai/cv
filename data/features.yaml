@@ -26,10 +26,10 @@ skills:
 
   - groupName: Herstel- en krachtgericht
     list:
-      - SRH
-      - eigen regie
-      - yucelmethode
       - persoonlijke diagnostiek
+      - eigen regie
+      - SRH
+      - yucelmethode
       - presentietheorie
       
   - groupName: Systeemgerichte aanpak
