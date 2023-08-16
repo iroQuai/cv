@@ -43,10 +43,10 @@ skills:
     - psycho-educatie
     
 languages:
-  - name: Talen
-    level: Nederlands, Engels
   - name: Registraties
     level: SKJ, GGZ Agoog. (NVRG volgt in januari 2024)
+  - name: Talen
+    level: Nederlands, Engels
   - name: Rijbewijs
     level: B, incl eigen auto
   - name: Vrije tijd
