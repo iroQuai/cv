@@ -45,7 +45,17 @@ interests:
   - "✔ Rijbewijs B, eigen vervoer"
   - "✔ Talen: Nederlands, Engels"
 
-#### NIET IN GEBRUIK NU #####
+languages:
+  - name: Talen
+    level: Nederlands, Engels
+  - name: Registraties
+    level: SKJ, GGZ Agoog. (NVRG volgt in januari 2024)
+  - name: Rijbewijs
+    level: B, incl eigen auto
+  - name: Vrije tijd
+    level: "Mijn gezin, basketbal, websites bouwen, sociaal-maatschappelijke activiteiten (oa BuurlandUtrecht.nl)" 
+
+#### NIET IN GEBRUIK NU, info staat onder "languages" #####
 certificates:
   - title: "SKJ"
     subtitle: "100026933"
@@ -61,13 +71,3 @@ certificates:
     subtitle: "aanvraag volgt"
     date: "verwachte aanvraagdatum: januari '24"
     link: https://www.nvrg.nl/lid-systeemtherapeutisch-werker
-
-languages:
-  - name: Talen
-    level: Nederlands, Engels
-  - name: Registraties
-    level: SKJ, GGZ Agoog. (NVRG Volgt in januari 2024)
-  - name: Rijbewijs
-    level: B, incl eigen auto
-  - name: Vrije tijd
-    level: "Mijn gezin, basketbal, websites bouwen, sociaal-maatschappelijke activiteiten (oa BuurlandUtrecht.nl)" 
