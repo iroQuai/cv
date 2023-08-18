@@ -53,7 +53,7 @@ params:
     avatar: img/avatar.jpg
     contact: true
     tagline: true
-    links: false
+    links: true
  
   pages:
     - features:
